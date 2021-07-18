@@ -1,4 +1,8 @@
-//one
+// Write a function that takes an array of positive integers. The function should calculate the//sum of all even and odd integers and
+// return an array containing the sums.The first index in the returned array should hold the sum of the even integers and the second index
+// should hold the sum of the odd integers.
+
+
 function sum_of_EvenAndOdds(arr) {
     let myArray = []; //array to store the values;
     arr.forEach(value => { //iterate over the values in the array;
