@@ -7,6 +7,7 @@ Number two:
 
 
 Number three:
+    This haven't worked correctly as at the time of pushing to github, though I will continue to work on this program till it worked as expected
 
 
 Number four:
@@ -33,6 +34,8 @@ Number ten:
 
 
 Bunus number one:
+    Solved 
 
 
 Bunus number two:
+    Solved
