@@ -1,5 +1,8 @@
 # basecampAssignments
 
+I took this assignemt seriously and learned a lot and how hope to acquire more programming skills along this program.
+
+
 Number one:
     I have written and ran task number 1 now and its working exactly as planned.
 
